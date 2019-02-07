@@ -10,7 +10,7 @@
 	</ol>
 	<li>Organisasi Proyek</li>
 	<ol>
-		<li li style='list-style-type:none;'>2.1 Model Proses</li>
+		<li>2.1 Model Proses</li>
 		<li>2.2 Struktur Organisasi</li>
 		<li>2.3 batasan dan antarmuka organisasi</li>
 		<li>2.4 Lingkup tanggung jawab</li>
