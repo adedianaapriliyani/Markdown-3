@@ -2,7 +2,7 @@
 <b>
 <ol><li>Pendahuluan</li>
 	<ol style='list-style-type:none;'>
-		<li>1.1 Gambaran proyek</li>
+		<li style='list-style-type:none;'>1.1 Gambaran proyek</li>
 		<li>1.2 Dokumen - dokumen dalam proyek</li>
 		<li>1.3 Evolusi SPMP</li>
 		<li>1.4 Materi acuan</li>
@@ -10,7 +10,7 @@
 	</ol>
 	<li>Organisasi Proyek</li>
 	<ol>
-		<li>2.1 Model Proses</li>
+		<li li style='list-style-type:none;'>2.1 Model Proses</li>
 		<li>2.2 Struktur Organisasi</li>
 		<li>2.3 batasan dan antarmuka organisasi</li>
 		<li>2.4 Lingkup tanggung jawab</li>
