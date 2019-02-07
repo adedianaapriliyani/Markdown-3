@@ -15,18 +15,15 @@
 		<li>2.3 batasan dan antarmuka organisasi</li>
 		<li>2.4 Lingkup tanggung jawab</li>
 	</ol>
-</ol><b>5. &emsp; Paket Pekerjaan, Jadwal, dan Budget</b>
-<ul>	
-
-```
-	<li>5.1 Paket pekerjaan</li>
-	<li>5.2 Ketergantungan atau Keterkaitan</li>
-	<li>5.3 Kebutuhan-Kebutuhan Sumber</li>
-	<li>5.4 Alokasi budget dan sumber daya</li>
-	<li>5.5 Jadwal</li>
-```
-
-</ul>
+	<li>Paket Pekerjaan, Jadwal, dan Budget</li>
+	<ol>
+		<li>5.1 Paket pekerjaan</li>
+		<li>5.2 Ketergantungan atau Keterkaitan</li>
+		<li>5.3 Kebutuhan-Kebutuhan Sumber</li>
+		<li>5.4 Alokasi budget dan sumber daya</li>
+		<li>5.5 Jadwal</li>
+	</ol>
+</ol>
 </b>
 
 
