@@ -1,15 +1,14 @@
 <h2>Software Project Managemant Plan</h2>
 <b>
 <ol><li>Pendahuluan</li>
-	<ol>
+	<ol style="">
 		<li>1.1 Gambaran proyek</li>
 		<li>1.2 Dokumen - dokumen dalam proyek</li>
 		<li>1.3 Evolusi SPMP</li>
 		<li>1.4 Materi acuan</li>
 		<li>1.5 Definisi dan akronim (singkatan)</li>
 	</ol>
-</ol>
-<ol><li>Organisasi Proyek</li>
+	<li>Organisasi Proyek</li>
 	<ol>
 		<li>2.1 Model Proses</li>
 		<li>2.2 Struktur Organisasi</li>
