@@ -1,8 +1,8 @@
 <h2>Software Project Managemant Plan</h2>
 <b>
 <ol><li>Pendahuluan</li>
-	<ol style="list-style-type: none;">
-		<li>1.1 Gambaran proyek</li>
+	<ol>
+		<li style="list-style-type: none;">1.1 Gambaran proyek</li>
 		<li>1.2 Dokumen - dokumen dalam proyek</li>
 		<li>1.3 Evolusi SPMP</li>
 		<li>1.4 Materi acuan</li>
