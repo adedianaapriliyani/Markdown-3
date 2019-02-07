@@ -18,3 +18,19 @@
 </ol>
 //place ur code here
 </b>
+
+
+
+
+
+
+
+<b>5. &emsp; Paket Pekerjaan, Jadwal, dan Budget</b>
+<ul>	
+
+		<li>5.1 Paket pekerjaan</li>
+		<li>5.2 Ketergantungan atau Keterkaitan</li>
+		<li>5.3 Kebutuhan-Kebutuhan Sumber</li>
+		<li>5.4 Alokasi budget dan sumber daya</li>
+		<li>5.5 Jadwal</li>
+</ul>
