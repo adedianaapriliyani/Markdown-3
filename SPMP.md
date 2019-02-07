@@ -1,4 +1,4 @@
-<h2>Software Project Managemant Plan</h2>
+<h2>Software Project Managemant Plan (SPMP)</h2>
 <b>
 <ol><li>Pendahuluan</li>
 	<ol style='list-style-type:none;'>
@@ -15,21 +15,19 @@
 		<li>2.3 batasan dan antarmuka organisasi</li>
 		<li>2.4 Lingkup tanggung jawab</li>
 	</ol>
-	<ol><li>Proses Manajerial</li>
-	<ol style='list-style-type:none;'>
+	<ol>
+	<li>Proses Manajerial</li>
 		<li style='list-style-type:none;'>3.1 Tujuan dan prioritas manajemen</li>
 		<li> 3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan</li>
 		<li> 3.3 Manajemen resiko</li>
 		<li> 3.4 Mekanisme monitoring dan kontroling</li>
 		<li> 3.5 Perencanaan staf</li>
-	</ol>
 	<li> Proses Teknis</li>
 	<ol>
 		<li> 4.1 Metode, tool dan teknik</li>
 		<li> 4.2 Dokumentasi perangkat lunak</li>
 		<li> 4.3 Fungsi-fungsi pendukung proyek</li>
 	</ol>
-</ol>
 	<li>Paket Pekerjaan, Jadwal, dan Budget</li>
 	<ol>
 		<li>5.1 Paket pekerjaan</li>
