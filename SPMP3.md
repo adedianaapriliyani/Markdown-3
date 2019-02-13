@@ -36,3 +36,15 @@ Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website ini dibang
 &emsp;&emsp;&emsp;Project manager  : bertanggung jawab dengan proyek<br>
 &emsp;&emsp;&emsp;Anallisi  : menganalisis proyek<br>
 &emsp;&emsp;&emsp;Programmer  : menjadi programmer dalam project<br>
+&emsp;**5.  Paket Pekerjaan, Jadwal, dan Budget**<br>
+&emsp;&emsp;&emsp;**5.1 Paket pekerjaan**<br>
+&emsp;&emsp;&emsp;Paket pekerjaan sudah di lakukan dengan pembagian tugas<br>
+&emsp;&emsp;&emsp;**5.2 Ketergantungan atau Keterkaitan**<br>
+&emsp;&emsp;&emsp;Semua anggota dalam tim selalu berkaitan dalam mengerjakan proyek<br>
+&emsp;&emsp;&emsp;**5.3 Kebutuhan-Kebutuhan Sumber**<br>
+&emsp;&emsp;&emsp;Kebutuhan akan sumber daya manusia<br>
+&emsp;&emsp;&emsp;**5.4 Alokasi budget dan sumber daya**<br>
+&emsp;&emsp;&emsp;Belum ada badget yang difikirkan<br>
+&emsp;&emsp;&emsp;**5.5 Jadwal**<br>
+&emsp;&emsp;&emsp;Belum terdapat jadwal<br>
+
