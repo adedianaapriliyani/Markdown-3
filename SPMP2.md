@@ -2,56 +2,37 @@
 
 1.  Pendahuluan
 
-	**1.1 Gambaran proyek**
+	**1.1 Gambaran proyek**<br>
 	Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website (MANGOLINESHP) adalah salah satu jenis aplikasi perangkat lunak yang dapat digunakan untuk membantu proses penjualan mangga dan olahannya secara online.
-Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website ini dibangun dengan menggunakan framework laravel dengan didukung basis data MYSQL
+Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website ini dibangun dengan menggunakan framework laravel dengan didukung basis data MYSQL<br>
 
-	**1.2 Dokumen - dokumen dalam proyek**
-	Nama  : Kenanga Mandiri
-	Alamat  : Blok Gandok RT 14 RW 05, Desa Kenanga, Kec. Sindang, Kab. 		Indramayu
-	Produk  : Desmigratif Kenanga Mandiri-Indramayu
-	List kebutuhan aplikasi menurut bapak:
+	**1.2 Dokumen - dokumen dalam proyek**<br>
+	Nama  : Kenanga Mandiri<br>
+	Alamat  : Blok Gandok RT 14 RW 05, Desa Kenanga, Kec. Sindang, Kab. 		Indramayu<br>
+	Produk  : Desmigratif Kenanga Mandiri-Indramayu<br>
+	List kebutuhan aplikasi menurut bapak:<br>
 
-	1. Deskripsi produk
-	2. Harga bisa diupdate
-	3. Nomor kontak admin
-	4. kemasan online
-	5. Ada minimum pemesanan
+	1. Deskripsi produk<br>
+	2. Harga bisa diupdate<br>
+	3. Nomor kontak admin<br>
+	4. kemasan online<br>
+	5. Ada minimum pemesanan<br>
+	**1.3 Evolusi SPMP**<br>
+	Dokumen dirawat oleh kelompok proyek II<br>
+	**1.4 Materi acuaan**<br>
+	Materi meliputi pengertian E-Commerce, frame Laravel, msql dan photosop<br>
+	**1.5 Definisi dan akronim (singkatan)**<br>
+	Daftar singkatan ada singkatan dari MSQL<br>
 	
-	**1.3 Evolusi SPMP**
-	Dokumen dirawat oleh kelompok proyek II
-	**1.4 Materi acuaan**
-	Materi meliputi pengertian E-Commerce, frame Laravel, msql dan photosop
-	**1.5 Definisi dan akronim (singkatan)**
-	Daftar singkatan ada singkatan dari MSQL
-	
-**2.  Organisasi Proyek**
-		&emsp;&emsp;&emsp;**2.1 Model Proses**
-&emsp;&emsp;&emsp;Moder proyek dilakukan secara waterfall
-&emsp;&emsp;&emsp;**2.2 Struktur Organisasi**
-		&emsp;&emsp;&emsp;Terdapat pembagian tugas dimana meliputi project manager, analisis dan &emsp;&emsp;&emsp;programmer
-	&emsp;&emsp;&emsp;**2.3 batasan dan antarmuka organisasi**
+**2.  Organisasi Proyek**<br>
+		&emsp;&emsp;&emsp;**2.1 Model Proses**<br>
+&emsp;&emsp;&emsp;Moder proyek dilakukan secara waterfall<br>
+&emsp;&emsp;&emsp;**2.2 Struktur Organisasi**<br>
+		&emsp;&emsp;&emsp;Terdapat pembagian tugas dimana meliputi project manager, analisis dan <br>&emsp;&emsp;&emsp;programmer<br>
+	&emsp;&emsp;&emsp;**2.3 batasan dan antarmuka organisasi**<br>
 		&emsp;&emsp;&emsp;Batasannya dapat dilakukakn dengan tanggung jawab tugasnya masing-
-	&emsp;&emsp;&emsp;masing
-&emsp;&emsp;&emsp;**2.4 Lingkup tanggung jawab**
-&emsp;&emsp;&emsp;Project manager  : bertanggung jawab dengan proyek
-&emsp;&emsp;&emsp;Anallisi  : menganalisis proyek
-&emsp;&emsp;&emsp;Programmer  : menjadi programmer dalam project
-&emsp;
-&emsp;**3.  Proses Manajerial**
-&emsp;&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**
-&emsp;&emsp;&emsp;Prioritas lebih ditekankan pada pengerjaaan alur system aplikasi
-&emsp;&emsp;&emsp;**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**
-&emsp;&emsp;&emsp;Aplikasi bergantungan pada mitra yang di ajak bekerja sama
-&emsp;&emsp;&emsp;**3.3 Manajemen resiko**
-&emsp;&emsp;&emsp;Resiko dapat dimanagement dengan melakukan evaluasi setiap kali ada &emsp;&emsp;&emsp;kekurangan
-&emsp;&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**
-&emsp;&emsp;&emsp;Monitoring dapat dilakukan selama sebulan seklai
-&emsp;&emsp;&emsp;**3.5 Perencanaan staf**
-&emsp;&emsp;&emsp;Belum terfikirkan
-*&emsp;**4.  Proses Teknis**
-	&emsp;&emsp;&emsp;	**4.1 Metode, tool dan Teknik**
-&emsp;&emsp;&emsp;Aplikasi yang dibuat dengan menggunakan metode waterfall dengan tool &emsp;&emsp;&emsp;laptop
-&emsp;&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**
-&emsp;&emsp;&emsp;Dokumentasi belum dilakukan
-&emsp;&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**
+	&emsp;&emsp;&emsp;masing<br>
+&emsp;&emsp;&emsp;**2.4 Lingkup tanggung jawab**<br>
+&emsp;&emsp;&emsp;Project manager  : bertanggung jawab dengan proyek<br>
+&emsp;&emsp;&emsp;Anallisi  : menganalisis proyek<br>
+&emsp;&emsp;&emsp;Programmer  : menjadi programmer dalam project<br>
