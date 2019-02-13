@@ -38,3 +38,20 @@ Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website ini dibang
 &emsp;&emsp;&emsp;Anallisi  : menganalisis proyek
 &emsp;&emsp;&emsp;Programmer  : menjadi programmer dalam project
 &emsp;
+&emsp;**3.  Proses Manajerial**
+&emsp;&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**
+&emsp;&emsp;&emsp;Prioritas lebih ditekankan pada pengerjaaan alur system aplikasi
+&emsp;&emsp;&emsp;**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**
+&emsp;&emsp;&emsp;Aplikasi bergantungan pada mitra yang di ajak bekerja sama
+&emsp;&emsp;&emsp;**3.3 Manajemen resiko**
+&emsp;&emsp;&emsp;Resiko dapat dimanagement dengan melakukan evaluasi setiap kali ada &emsp;&emsp;&emsp;kekurangan
+&emsp;&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**
+&emsp;&emsp;&emsp;Monitoring dapat dilakukan selama sebulan seklai
+&emsp;&emsp;&emsp;**3.5 Perencanaan staf**
+&emsp;&emsp;&emsp;Belum terfikirkan
+*&emsp;**4.  Proses Teknis**
+	&emsp;&emsp;&emsp;	**4.1 Metode, tool dan Teknik**
+&emsp;&emsp;&emsp;Aplikasi yang dibuat dengan menggunakan metode waterfall dengan tool &emsp;&emsp;&emsp;laptop
+&emsp;&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**
+&emsp;&emsp;&emsp;Dokumentasi belum dilakukan
+&emsp;&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**
