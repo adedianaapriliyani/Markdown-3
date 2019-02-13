@@ -36,6 +36,23 @@ Aplikasi Penjualan Jenis dan Olahan Mangga Indramayu Berbasis Website ini dibang
 &emsp;&emsp;&emsp;Project manager  : bertanggung jawab dengan proyek<br>
 &emsp;&emsp;&emsp;Anallisi  : menganalisis proyek<br>
 &emsp;&emsp;&emsp;Programmer  : menjadi programmer dalam project<br>
+&emsp;**3.  Proses Manajerial**<br>
+&emsp;&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**<br>
+&emsp;&emsp;&emsp;Prioritas lebih ditekankan pada pengerjaaan alur system aplikasi<br>
+&emsp;&emsp;&emsp;**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
+&emsp;&emsp;&emsp;Aplikasi bergantungan pada mitra yang di ajak bekerja sama<br>
+&emsp;&emsp;&emsp;**3.3 Manajemen resiko**<br>
+&emsp;&emsp;&emsp;Resiko dapat dimanagement dengan melakukan evaluasi setiap kali ada &emsp;&emsp;&emsp;kekurangan<br>
+&emsp;&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**<br>
+&emsp;&emsp;&emsp;Monitoring dapat dilakukan selama sebulan seklai<br>
+&emsp;&emsp;&emsp;**3.5 Perencanaan staf**<br>
+&emsp;&emsp;&emsp;Belum terfikirkan<br>
+*&emsp;**4.  Proses Teknis**<br>
+	&emsp;&emsp;&emsp;	**4.1 Metode, tool dan Teknik**<br>
+&emsp;&emsp;&emsp;Aplikasi yang dibuat dengan menggunakan metode waterfall dengan tool &emsp;&emsp;&emsp;laptop<br>
+&emsp;&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**<br>
+&emsp;&emsp;&emsp;Dokumentasi belum dilakukan<br>
+&emsp;&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**<br>
 &emsp;**5.  Paket Pekerjaan, Jadwal, dan Budget**<br>
 &emsp;&emsp;&emsp;**5.1 Paket pekerjaan**<br>
 &emsp;&emsp;&emsp;Paket pekerjaan sudah di lakukan dengan pembagian tugas<br>
