@@ -1,13 +1,14 @@
 <h2>Software Project Managemant Plan (SPMP)</h2><br>
 <b>
 <ol><li>Pendahuluan</li><br>
+	<ol>
 		<li>1.1 Tujuan</li><br>
 		<li>1.2 Lingkup</li><br>
 		<li>1.3 Definisi, akronim, singkatan</li><br>
 		<li>1.4 Referensi</li><br>
 		<li>1.5 Overview</li><br>
 	</ol>
-	<li>Gambaran Umum</li><br>
+	<ol><li>Gambaran Umum</li><br>
 	<ol>
 		<li>2.1 Perspektif Produk</li><br>
 		<ol>
@@ -26,9 +27,9 @@
 		<li>2.5 asumsi-asumsi dan ketergantungan/keterkaitan</li><br>
 		<li>2.6 kebutuhan-kebutuhan penyeimbang</li><br>
 	</ol>
-	<li>kebutuhan lain yang spesifik</li><br>
-	<li>Informasi pendukung</li><br>
-	<li>Paket Pekerjaan, Jadwal, dan Budget</li><br>	
+	<ol><li>kebutuhan lain yang spesifik</li></ol><br>
+	<ol><li>Informasi pendukung</li></ol><br>
+	<ol><li>Paket Pekerjaan, Jadwal, dan Budget</li></ol><br>	
 </ol>
 </b>
 
