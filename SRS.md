@@ -1,6 +1,6 @@
-<h2>Software Project Managemant Plan (SPMP)</h2><br>
+<h2>Software Requirement Specification (SRS)</h2><br>
 <b>
-<ol><li>Pendahuluan</li><br>
+<li>Pendahuluan</li><br>
 	<ol>
 		<li>1.1 Tujuan</li><br>
 		<li>1.2 Lingkup</li><br>
@@ -8,8 +8,8 @@
 		<li>1.4 Referensi</li><br>
 		<li>1.5 Overview</li><br>
 	</ol>
-</ol>
-<ol><li>Gambaran Umum</li><br>
+
+<li>Gambaran Umum</li><br>
 	<ol>
 		<li>2.1 Perspektif Produk</li><br>
 		<ol>
@@ -28,10 +28,9 @@
 		<li>2.5 asumsi-asumsi dan ketergantungan/keterkaitan</li><br>
 		<li>2.6 kebutuhan-kebutuhan penyeimbang</li><br>
 	</ol>
-</ol>
-	<ol><li>kebutuhan lain yang spesifik</li></ol><br>
-	<ol><li>Informasi pendukung</li></ol><br>
-	<ol><li>Paket Pekerjaan, Jadwal, dan Budget</li></ol><br>	
+	<li>kebutuhan lain yang spesifik</li><br>
+	<li>Informasi pendukung</li><br>
+	<li>Paket Pekerjaan, Jadwal, dan Budget</li>><br>	
 </ol>
 </b>
 
