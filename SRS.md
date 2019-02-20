@@ -22,6 +22,13 @@
 &emsp;&emsp;[9] https://teorionline.wordpress.com/service/metode-pengumpulan-data/<br>
 &emsp;&emsp;[10] https://ardhana12.wordpress.com/2008/02/08/teknik-analisis-data-dalam-penelitian/<br>
 &emsp;1.5 Overview<br>
+&emsp;&emsp;a.	Judul dibuat sesingkat singkatnya, jelas menunjukan dengan tepat masalah yang hendak diteliti dan tidak peluang penafsiran ganda.<br>
+&emsp;&emsp;b.	Jenis usulan adalah proposal proyek 1<br>
+&emsp;&emsp;c.	Program studi dan jurusan<br>
+&emsp;&emsp;d.	Lambang POLITEKNIK NEGERI INDRAMAYU<br>
+&emsp;&emsp;e.	Nama dan nomor induk mahasiswa diletakkan ditengah halaman judul.<br>
+&emsp;&emsp;f.	Institusi adalah pengajuan POLITEKNIK NEGERI INDRAMAYU<br>
+
 <b>2. Gambaran Umum</b><br>
 &emsp;2.1 Perspektif produk<br>
 &emsp;&emsp;2.1.1 Antarmuka sistem<br>
