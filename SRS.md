@@ -1,4 +1,4 @@
-<h1>***Software Requirement Specification (SRS)***</h1>
+<h1>Software Requirement Specification (SRS)</h1>
 <b>1. PENDAHULUAN</b><br>
 &emsp;<b>1.1 Tujuan</b><br>
 &emsp;&emsp;Tujuan dari pembuatan proposal ini adalah :<br>
