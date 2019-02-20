@@ -38,8 +38,8 @@
 &emsp;2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br>
 &emsp;2.6 Kebutuhan-kebutuhan penyeimbang<br>
 <b>3. Kebutuhan lain yang spesifik</b><br>
-&emsp;&emsp;Analisis data adalah proses pengorganisasian dan mengurutkan data kedalam pola, kategori, dan satuan uraian dasar &emsp;&emsp;sehingga dapat ditemukan tema dan dapat dirumuskan hipotesis kerja seperti yang disarankan oleh data.<br>
-&emsp;&emsp;Data yang tersumber dari penelitian pengamatan dan wawancara yang terkumpul akan dijadikan informasi untuk &emsp;&emsp;pengambilan keputusan selanjutnya. Setelah itu dengan menggunakan metode pengumpulan data di atas, maka penelitian &emsp;&emsp;akan mengolah dan menganalisis data tersebut dengan menggunkan analisis secara deskriptif-kualitatif.<br>
+&emsp;&emsp;&emsp;Analisis data adalah proses pengorganisasian dan mengurutkan data kedalam pola, kategori, dan satuan uraian dasar &emsp;&emsp;sehingga dapat ditemukan tema dan dapat dirumuskan hipotesis kerja seperti yang disarankan oleh data.<br>
+&emsp;&emsp;&emsp;Data yang tersumber dari penelitian pengamatan dan wawancara yang terkumpul akan dijadikan informasi untuk &emsp;&emsp;&emsp;pengambilan keputusan selanjutnya. Setelah itu dengan menggunakan metode pengumpulan data di atas, maka penelitian &emsp;&emsp;akan mengolah dan menganalisis data tersebut dengan menggunkan analisis secara deskriptif-kualitatif.<br>
 
 <b>4.  Informasi pendukung</b><br>
 &emsp;&emsp;Lokasi penelitian dilakukan di pengolahan mangga sekitar Indramayu.<br>
