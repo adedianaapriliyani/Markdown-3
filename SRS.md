@@ -25,13 +25,21 @@
 <b>2. Gambaran Umum</b><br>
 &emsp;2.1 Perspektif produk<br>
 &emsp;&emsp;2.1.1 Antarmuka sistem<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interface sistem dimana pada bagian ini tertera beberapa bagan yang menggambarkan interface dan alur sistem.
 &emsp;&emsp;2.1.2 Antarmuka pengguna<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interfaces sistem yang menyuguhkan tampilan berserta fungsi-fungsi modul yang bisa digunakan oleh user dalam pengoperasian.
 &emsp;&emsp;2.1.3 Antarmuka perangkat keras <br>
+&emsp;&emsp;&emsp;&emsp;Antarmuka ini menampilkan beberapa kegunaan device atau perangkat keras yang digunakan.
 &emsp;&emsp;2.1.4 Antarmuka perangkat lunak<br>
+&emsp;&emsp;&emsp;&emsp;Antarmuka ini menampilkan beberapa kegunaan device atau perangkat lunak yang digunakan.
 &emsp;&emsp;2.1.5 Antarmuka komunikasi<br>
-&emsp;&emsp;2.1.6 Batasan-batasan memori<br> 
+&emsp;&emsp;&emsp;&emsp;Bagian ini menjelaskan bagaimana sistem berkomunikasi dengan perangkat yang ada.
+&emsp;&emsp;2.1.6 Batasan-batasan memori<br>
+&emsp;&emsp;&emsp;&emsp;Bahan ini tertera batasan batasan memori dari sistem yang telah dirancang.
 &emsp;&emsp;2.1.7 Operasi-operasi<br>
+&emsp;&emsp;&emsp;&emsp;Terdapat beberapa operasi-operasi yang ada pada bagian ini yang terintegrasi pada sistem.
 &emsp;&emsp;2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br>
+&emsp;&emsp;&emsp;&emsp;Beberapa kebutuhan dan resource yang tertera dalam pengadaptasian.
 &emsp;2.2 Fungsi-fungsi produk<br>
 &emsp;2.3 Karakteristik pengguna<br>
 &emsp;2.4 Batasan-batasan<br> 
