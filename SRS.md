@@ -2,15 +2,15 @@
 <b>1. PENDAHULUAN</b><br>
 &emsp;<b>1.1 Tujuan</b><br>
 &emsp;&emsp;Tujuan dari pembuatan proposal ini adalah :<br>
-&emsp;&emsp;1.4.1 Memperkenalkan beragam jenis olahan mangga yang ada di Indramayu kepada masyarakat luar.<br>
-&emsp;&emsp;1.4.2 Mengetahui cara mengembangkan aplikasi penyedia lapak penjual olahan  mangga<br>
+&emsp;&emsp;1.1.1 Memperkenalkan beragam jenis olahan mangga yang ada di Indramayu kepada masyarakat luar.<br>
+&emsp;&emsp;1.1.2 Mengetahui cara mengembangkan aplikasi penyedia lapak penjual olahan  mangga<br>
 &emsp;<b>1.2 Lingkup</b><br>
 &emsp;&emsp;Agar pembatasan masalah lebih jelas, maka penulis memberikan batasan yang akan dilakukan yaitu:<br>
-&emsp;&emsp;1.3.1	Pembeli yang menjadi mudah untuk mencari penjual olahan mangga tanpa harus mendatangi toko olahan mangga secara langsung<br>
-&emsp;&emsp;1.3.2	Sistem ini dibangun untuk diimplementasikan dengan menggunakan  aplikasi Web<br>
-&emsp;&emsp;1.3.3	Sistem ini dibuat dengan menggunakann framework laravel.<br>
+&emsp;&emsp;1.2.1	Pembeli yang menjadi mudah untuk mencari penjual olahan mangga tanpa harus mendatangi toko olahan mangga secara langsung<br>
+&emsp;&emsp;1.2.2	Sistem ini dibangun untuk diimplementasikan dengan menggunakan  aplikasi Web<br>
+&emsp;&emsp;1.2.3	Sistem ini dibuat dengan menggunakann framework laravel.<br>
 &emsp;<b>1.3 Definisi, Akronim, Singkatan</b><br>
-&emsp;&emsp;Aplikasi Penjualan Olahan Mangga Indramayu Berbasis Website (MANGOLINESHP) adalah salah satu jenis aplikasi &emsp;&emsp;perangkat lunak yang dapat digunakan untuk membantu proses penjualan &emsp;&emsp;olahan secara online. Selama ini pemasaran olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja.<br>
+&emsp;&emsp;Aplikasi Penjualan Olahan Mangga Indramayu Berbasis Website (MANGOLINESHP) adalah salah satu jenis aplikasi &emsp;&emsp;perangkat lunak yang dapat digunakan untuk membantu proses penjualan olahan secara online. Selama ini pemasaran &emsp;&emsp;olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja.<br>
 &emsp;<b>1.4 Referensi</b><br>
 &emsp;&emsp;[1] http://handokochun.blogspot.com/2014/03/bahasa-pemrograman-yang-digunakan-untuk.html<br>
 &emsp;&emsp;[2] https://www.nesabamedia.com/pengertian-mysql/	<br>
