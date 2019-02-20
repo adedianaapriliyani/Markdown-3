@@ -38,4 +38,13 @@
 &emsp;2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br>
 &emsp;2.6 Kebutuhan-kebutuhan penyeimbang<br>
 <b>3. Kebutuhan lain yang spesifik</b><br>
+&emsp;&emsp;Analisis data adalah proses pengorganisasian dan mengurutkan data kedalam pola, kategori, dan satuan uraian dasar sehingga dapat ditemukan tema dan dapat dirumuskan hipotesis kerja seperti yang disarankan oleh data.<br>
+&emsp;&emsp;Data yang tersumber dari penelitian pengamatan dan wawancara yang terkumpul akan dijadikan informasi untuk pengambilan keputusan selanjutnya. Setelah itu dengan menggunakan metode pengumpulan data di atas, maka penelitian akan mengolah dan menganalisis data tersebut dengan menggunkan analisis secara deskriptif-kualitatif.<br>
+
 <b>4.  Informasi pendukung</b><br>
+&emsp;&emsp;Lokasi penelitian dilakukan di pengolahan mangga sekitar Indramayu.<br>
+&emsp;&emsp;Nama		: Kenanga Mandiri<br>
+&emsp;&emsp;Alamat		: Blok Gandok RT 14 RW 05, Desa Kenanga, Kec. Sindang, Kab. Indramayu<br>
+&emsp;&emsp;Produk		: Desmigratif Kenanga Mandiri-Indramayu<br>
+&emsp;&emsp;Adapun waktu penelitian serta kegiatan dilakukan pada bulan Februari s/d Juni 2019.<br>
+
