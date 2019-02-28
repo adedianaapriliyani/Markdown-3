@@ -10,19 +10,19 @@ ini memungkinkan user untuk melakukan order proyek, dengan cara input data melal
 &emsp;&emsp;perangkat lunak yang dapat digunakan untuk membantu proses penjualan olahan secara online. Selama ini pemasaran 
 &emsp;&emsp;olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja.<br>
 &emsp;<b>2 Referensi</b><br>
-&emsp;&emsp;a.	Modul KULIAH RPL 7 DOKUMEN SDD 
-&emsp;&emsp;b.	Contoh Software Design Document (SDD) Moch. Bambang Sulistio 
+&emsp;&emsp;a.	Modul KULIAH RPL 7 DOKUMEN SDD <br>
+&emsp;&emsp;b.	Contoh Software Design Document (SDD) Moch. Bambang Sulistio <br>
 &emsp;<b>3 Penjelasan Dekomposisi </b><br>
 &emsp;&emsp;<b>3.1 Dekomposisi Modul</b><br>
 &emsp;&emsp;&emsp;<b>3.1.1 Deskripsi Modul 1</b><br>
-&emsp;&emsp;&emsp;&emsp;Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. <br>
+&emsp;&emsp;&emsp;&emsp;Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang &emsp;&emsp;&emsp;&emsp; terkait langsung dengan sistem ini. <br>
 &emsp;&emsp;&emsp;&emsp;Kebutuhan fungsional dari sistem ini adalah sebagai berikut:<br>
 &emsp;&emsp;&emsp;&emsp;1.	Pencatatan Hak Akses <br>
 &emsp;&emsp;&emsp;&emsp;2.	Pencatatan Nama aplikasi , Nama Kategori dan Nama Client <br>
 &emsp;&emsp;&emsp;&emsp;3. Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi <br>
 &emsp;&emsp;&emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Hak Akses: <br>
 &emsp;&emsp;&emsp;&emsp;•	Membedakan antara user dan admin dalam hak ases <br>
-&emsp;&emsp;&emsp;&emsp;•	Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya juka terdaftar dalam user tidak memiliki hak ases penuh 
+&emsp;&emsp;&emsp;&emsp;•	Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya &emsp;&emsp;&emsp;&emsp;juka terdaftar dalam user tidak memiliki hak ases penuh 
 Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan <br>
 &emsp;&emsp;&emsp;<b>3.1.2 Deskripsi Modul 2</b><br>
 
