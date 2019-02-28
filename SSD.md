@@ -1,4 +1,5 @@
-<h1>SSD</h1>
+
+<h1> SIMULASI MENEJEMEN PROYEK PERANGKAT LUNAK (SSD)</h1>
 <b>1. Pendahuluan</b><br>
 &emsp;<b>1.1 Tujuan</b><br>
 &emsp;&emsp;Untuk pengembangan versi pertambahan software secara cepat. untuk menyelesaikan sistem secara global terlebih dahulu, kemudian untuk feature dari sistem akan dikembangkan kemudian. Sehingga mempercepat dalam pengimplementasian project. <br>
@@ -23,7 +24,7 @@ ini memungkinkan user untuk melakukan order proyek, dengan cara input data melal
 &emsp;&emsp;&emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Hak Akses: <br>
 &emsp;&emsp;&emsp;&emsp;•	Membedakan antara user dan admin dalam hak ases <br>
 &emsp;&emsp;&emsp;&emsp;•	Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya &emsp;&emsp;&emsp;&emsp;juka terdaftar dalam user tidak memiliki hak ases penuh 
-Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&emsp; Nama Kategori <br>
+Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&emsp;Nama Kategori <br>
 &emsp;&emsp;&emsp;<b>3.1.2 Deskripsi Modul 2</b><br>
 
 &emsp;&emsp;&emsp;&emsp;Nama  Client : <br>
@@ -49,7 +50,7 @@ Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&ems
 &emsp;&emsp;&emsp;&emsp;1.	Proses-proses Saling Tidak Peduli (Independen). <br>
 &emsp;&emsp;&emsp;&emsp;Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan  &emsp;&emsp;&emsp;&emsp;proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya. <br>
 &emsp;&emsp;&emsp;&emsp;2.	Proses-proses Saling Mempedulikan Secara Tidak Langsung. <br>
-&emsp;&emsp;&emsp;&emsp;Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses &emsp;&emsp;&emsp;&emsp; objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek  &emsp;&emsp;&emsp;&emsp;tertentu.  <br>
+&emsp;&emsp;&emsp;&emsp;Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses&emsp;&emsp;&emsp;&emsp;objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek&emsp;&emsp;&emsp;&emsp;tertentu.  <br>
 &emsp;&emsp;&emsp;&emsp;3.	Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain: <br>
 &emsp;&emsp;&emsp;&emsp;a.	Sistem operasi harus mengetahui proses-proses yang aktif <br>
 &emsp;&emsp;&emsp;&emsp;b.	Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. &emsp;&emsp;&emsp;&emsp; Sumber daya yang harus dikelola, antara lain: <br>
