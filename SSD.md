@@ -23,7 +23,7 @@ ini memungkinkan user untuk melakukan order proyek, dengan cara input data melal
 &emsp;&emsp;&emsp;&emsp;Spesifikasi yang diharapkan pada Pencatatan Hak Akses: <br>
 &emsp;&emsp;&emsp;&emsp;•	Membedakan antara user dan admin dalam hak ases <br>
 &emsp;&emsp;&emsp;&emsp;•	Sistem dapat memproses secara otomatis jika kita terdaftar dalam admin memiliki hak ases penuh dan sebaliknya &emsp;&emsp;&emsp;&emsp;juka terdaftar dalam user tidak memiliki hak ases penuh 
-Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan <br>
+Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&emsp; Nama Kategori <br>
 &emsp;&emsp;&emsp;<b>3.1.2 Deskripsi Modul 2</b><br>
 
 &emsp;&emsp;&emsp;&emsp;Nama  Client : <br>
@@ -37,8 +37,8 @@ Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan <br
 
 &emsp;&emsp;<b>3.2 Dekomposisi Proses Konkuren</b><br>
 &emsp;&emsp;&emsp;<b>3.2.1 Deskripsi Proses 1</b><br>
-&emsp;&emsp;&emsp;&emsp;Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat bersamaan. Konkurensi merupakan landasan umum perancangan sistem operasi. <br>
-&emsp;&emsp;&emsp;&emsp;Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama. Pada proses-proses konkuren yang berinteraksi mempunyai beberapa masalah yang harus diselesaikan: <br>
+&emsp;&emsp;&emsp;&emsp;Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat bersamaan. Konkurensi merupakan &emsp;&emsp;&emsp;&emsp; landasan umum perancangan sistem operasi. <br>
+&emsp;&emsp;&emsp;&emsp;Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama. Pada proses-proses konkuren yang &emsp;&emsp;&emsp;&emsp; berinteraksi mempunyai beberapa masalah yang harus diselesaikan: <br>
 &emsp;&emsp;&emsp;&emsp;1.	Mutual Exclusion <br>
 &emsp;&emsp;&emsp;&emsp;2.	Sinkronisasi <br>
 &emsp;&emsp;&emsp;&emsp;3.	Deadlock <br>
@@ -47,27 +47,27 @@ Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi, Nama Kategori dan <br
 &emsp;&emsp;&emsp;<b>3.2.2 Deskripsi Proses 2</b><br>
 &emsp;&emsp;&emsp;&emsp;Pada sistem dengan banyak proses (kongkuren), terdapat 2 katagori interaksi, yaitu: <br>
 &emsp;&emsp;&emsp;&emsp;1.	Proses-proses Saling Tidak Peduli (Independen). <br>
-&emsp;&emsp;&emsp;&emsp;Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya. <br>
+&emsp;&emsp;&emsp;&emsp;Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan  &emsp;&emsp;&emsp;&emsp;proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya. <br>
 &emsp;&emsp;&emsp;&emsp;2.	Proses-proses Saling Mempedulikan Secara Tidak Langsung. <br>
-&emsp;&emsp;&emsp;&emsp;Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.  <br>
+&emsp;&emsp;&emsp;&emsp;Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses &emsp;&emsp;&emsp;&emsp; objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek  &emsp;&emsp;&emsp;&emsp;tertentu.  <br>
 &emsp;&emsp;&emsp;&emsp;3.	Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain: <br>
 &emsp;&emsp;&emsp;&emsp;a.	Sistem operasi harus mengetahui proses-proses yang aktif <br>
-&emsp;&emsp;&emsp;&emsp;b.	Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, antara lain: <br>
+&emsp;&emsp;&emsp;&emsp;b.	Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. &emsp;&emsp;&emsp;&emsp; Sumber daya yang harus dikelola, antara lain: <br>
 &emsp;&emsp;&emsp;&emsp;1.	Waktu pemroses. <br>
 &emsp;&emsp;&emsp;&emsp;2.	Memori <br>
 &emsp;&emsp;&emsp;&emsp;3.	Berkas-berkas <br>
 &emsp;&emsp;&emsp;&emsp;4.	Perangkat I/O <br>
-&emsp;&emsp;&emsp;&emsp;c.	Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses lain. <br>
+&emsp;&emsp;&emsp;&emsp;c.	Sistem operasi harus memproteksi data dan sumber daya fisik masingmasing proses dari gangguan proses-proses &emsp;&emsp;&emsp;&emsp; lain. <br>
 &emsp;&emsp;&emsp;&emsp;d.	Hasil-hasil proses harus independen terhadap kecepatan relatif prosesproses lain dimana eksekusi dilakukan. <br>
 
 &emsp;&emsp;<b>3.3 Dekomposisi Data</b><br>
 &emsp;&emsp;&emsp;<b>3.3.1 Deskripsi Entri data 1</b><br>
-&emsp;&emsp;&emsp;&emsp;Bagian ini akan menjelaskan struktur data. Table yang terbentuk ada 2 (Dua) dengan nama masing masing tablenya adalah sebagai berikut : <br>
+&emsp;&emsp;&emsp;&emsp;Bagian ini akan menjelaskan struktur data. Table yang terbentuk ada 2 (Dua) dengan nama masing masing tablenya &emsp;&emsp;&emsp;&emsp; adalah sebagai berikut : <br>
 &emsp;&emsp;&emsp;&emsp;•	Tabel karyawan <br>
 &emsp;&emsp;&emsp;&emsp;•	Tabel hitung_cost <br>
 
 &emsp;&emsp;&emsp;<b>3.3.2 Deskripsi Entri data 2</b><br>
-&emsp;&emsp;&emsp;Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang bekerja dalam sebuah project aplikasi. <br>
+&emsp;&emsp;&emsp;Tabel hitung, digunakan untuk menyimpan hasil efroth, durasi waktu, jumlah orang dan gaji setiap karyawan yang &emsp;&emsp;&emsp;&emsp; bekerja dalam sebuah project aplikasi. <br>
 <b>4. Deskripsi Ketergantungan/Keterkaitan</b><br>
 &emsp;&emsp;<b>4.1 Keterkatian inter modul</b><br>
 &emsp;&emsp;Ketika merancang sebuah Dependensi Inter-modul sistem, dapat dirancang dengan dua cara yang luas dan cara pertama adalah untuk merancang sistem yang lengkap dengan menggunakan sistem yang ada diketahui dan mengimplementasikan fitur baru yang diperlukan untuk meningkatkan efektivitas sistem dan mengujinya di kondisi nyata. Cara alternatif akan merancang sistem dan biasanya karena biaya untuk menyiapkan antarmuka antara modul. Modul dari siaran berita Sistem SSD tergantung pada penyebaran informasi. Ini antar-modul dari penelitian ini adalah tampilan dari pengumuman dan itu termasuk database sistem. Kemudian seluruh informasi yang telah dimasukkan akan disimpan dalam database, yang berasal dari proses input sampai pengumuman menampilkan ke monitor lain.<br>
