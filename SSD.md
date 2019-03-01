@@ -79,17 +79,26 @@ Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&ems
 <b>III.5 DESKRIPSI ANTARMUKA</b><br>
 &emsp;&emsp;<b>III.5.1 Deskripsi Antarmuka Pengguna</b><br>
 &emsp;&emsp;Antarmuka pengguna (user interface) merupakan bentuk tampilan grafis yang berhubungan langsung dengan pengguna (user). Antarmuka pengguna berfungsi untuk menghubungkan antar pengguna dengan sistem, sehingga sistem tersebut bisa digunakan. Berikut merupakan rangcangan desain antarmuka pengguna proyek kami.<br>
-![Gambar Form awal]<img src="/img/1.png"><br>
+<img src="/img/1.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[Gambar Form awal]</b>
 &emsp;&emsp;Antarmuka ini digunakan untuk melakukan proses login guna mendapatkan hak akses ke aplikasi. Untuk mendapat akses masuk ke dalam sistem, user harus menginputkan user name dan password dengan benar pada textbox yang telah disediakan . kemudian sistem akan mengecek user name dan password yang dimasukkan dengan data user name dan password yang telah tersimpan di dalam sistem. Jika data user name dan password cocok maka pengguna akan diberikan akses masuk ke dalam sistem, sebaliknya jika user name dan password salah atau tidak cocok maka akan ada pesan peringatan dari aplikasi.<br>
-![Gambar Form menu]<img src="/D:/D3TI2C/RPL/github1/Markdown-3/img/2.png"><br>
+<img src="/img/2.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[Gambar Form menu]</b>
 &emsp;&emsp;Antarmuka ini merupakan antarmuka utama yang berisi menu untuk masuk ke antarmuka-antarmuka yang lain. User dapat meilih fungsionalitas- fungsionalitas yang ditawarkan oleh aplikasi. Fungsionalitas yang ditawarkan seperti pembuatan proyek, info karyawan, dan perhitungan cost.<br>
-![form pesan produk](D3TI2C\RPL\ss3.png)<br>
+<img src="/img/3.png"><br>
+&emsp;&emsp;&emsp;&emsp;[form pesan produk]
 &emsp;&emsp;Antarmuka ini digunakan untuk membuat proyek perhitungan yang di inginkan. Untuk membuat proyek user harus mengisi form yang telah disediakan, kemudian meng-click hitung. Dan kemudian user diharuskan meng-click save yang berada di pojok kanan atas. Secara otomatis proyek akan disimpan.<br>
-![Form data karyawan](4.png)<br>
+<img src="/img/4.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[Form data karyawan]</b>
 &emsp;&emsp;Antarmuka ini digunakan untuk melihat data para Karyawan, caranya adalah tinggal memasukkan ID Karyawan yang ingin dilihat. Kemudian secara otomatis data akan keluar.<br>
-![Form Data pesanan Produk](5.png)<br>
-&emsp;&emsp;Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.![Form data Laporan](6.png)<br>
+<img src="/img/5.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[Form Data pesanan Produk]</b>
+&emsp;&emsp;Antarmuka ini digunakan untuk melihat data dari keseluruhan transaksi pesanan proyek yang pernah ada.
+<img src="/img/6.png"><br>
+&emsp;&emsp;&emsp;&emsp;[Form data Laporan]
 &emsp;&emsp;Antarmuka ini digunakan untuk melihat dokumen-dokumen yang ditunjukan dalam pembangunan Simulasi Manajemen Proyek RPL.<br>
-![Form data dokumen](7.png)<br>
+<img src="/img/7.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[Form data dokumen]</b>
 &emsp;&emsp;Antarmuka ini digunakan untuk melihat data atau informasi dari anggota kelompok tim 2 proyek RPL.<br>
-![form info kami]()
+<img src="/img/8.png"><br>
+&emsp;&emsp;&emsp;&emsp;<b>[form info kami]</b>
