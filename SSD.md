@@ -81,9 +81,9 @@ Spesifikasi yang diharapkan pada Pencatatan Nama aplikasi,&emsp;&emsp;&emsp;&ems
 &emsp;&emsp;Antarmuka pengguna (user interface) merupakan bentuk tampilan grafis yang berhubungan langsung dengan pengguna (user). Antarmuka pengguna berfungsi untuk menghubungkan antar pengguna dengan sistem, sehingga sistem tersebut bisa digunakan. Berikut merupakan rangcangan desain antarmuka pengguna proyek kami.<br>
 ![Gambar Form awal](../../ss/1.png)<br>
 &emsp;&emsp;Antarmuka ini digunakan untuk melakukan proses login guna mendapatkan hak akses ke aplikasi. Untuk mendapat akses masuk ke dalam sistem, user harus menginputkan user name dan password dengan benar pada textbox yang telah disediakan . kemudian sistem akan mengecek user name dan password yang dimasukkan dengan data user name dan password yang telah tersimpan di dalam sistem. Jika data user name dan password cocok maka pengguna akan diberikan akses masuk ke dalam sistem, sebaliknya jika user name dan password salah atau tidak cocok maka akan ada pesan peringatan dari aplikasi.<br>
-![Gambar Form menu](2.png)<br>
+![Gambar Form menu]<img src= "D:\D3TI2C\RPL\github1\Markdown-3\img\2.png"><br>
 &emsp;&emsp;Antarmuka ini merupakan antarmuka utama yang berisi menu untuk masuk ke antarmuka-antarmuka yang lain. User dapat meilih fungsionalitas- fungsionalitas yang ditawarkan oleh aplikasi. Fungsionalitas yang ditawarkan seperti pembuatan proyek, info karyawan, dan perhitungan cost.<br>
-![form pesan produk](3.png)<br>
+![form pesan produk](D3TI2C\RPL\ss3.png)<br>
 &emsp;&emsp;Antarmuka ini digunakan untuk membuat proyek perhitungan yang di inginkan. Untuk membuat proyek user harus mengisi form yang telah disediakan, kemudian meng-click hitung. Dan kemudian user diharuskan meng-click save yang berada di pojok kanan atas. Secara otomatis proyek akan disimpan.<br>
 ![Form data karyawan](4.png)<br>
 &emsp;&emsp;Antarmuka ini digunakan untuk melihat data para Karyawan, caranya adalah tinggal memasukkan ID Karyawan yang ingin dilihat. Kemudian secara otomatis data akan keluar.<br>
